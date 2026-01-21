@@ -8,7 +8,7 @@ body {
 }
 
 a {
-  color: #E82E21;
+  color: #893168;
 }
 
 a:hover {
@@ -16,7 +16,7 @@ a:hover {
 }
 
 h1 {
-  color: #E82E21;
+  color: #893168;
   font-size: 18pt;
 }
 
@@ -90,11 +90,11 @@ li.bullet {
 }
 
 li.bullet a {
-  color: #E82E21;
+  color: #893168;
 }
 
 li a {
-  color: #E82E21;
+  color: #893168;
 }
 
 iframe {
@@ -242,5 +242,5 @@ img.profile{
 }
 
 .website-title a {
-  color: #E82E21;
+  color: #893168;
 }
