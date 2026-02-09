@@ -244,3 +244,8 @@ img.profile{
 .website-title a {
   color: #893168;
 }
+
+.basic-flex-box {
+  display: flex;
+  
+}
